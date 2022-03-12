@@ -47,3 +47,15 @@ a, a:hover {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+#reserveButton {
+  background-color: #17A2B8; }
+
+.modal-header {
+  background-color: #901CAD; }
+
+.modal-title {
+  color: white; }
+
+.modal-header1 {
+  background-color: #17A2B8; }
